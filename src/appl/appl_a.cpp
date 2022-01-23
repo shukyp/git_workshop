@@ -41,7 +41,8 @@ void appl_a(void)
 {
     mark    m1, m2;
     salary  s1, s2;     // static declarion of variables.
- 
+	uint seniority;
+	
     std::cout << "The department is great" << std::endl;
 }
 
