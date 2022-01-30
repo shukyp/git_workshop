@@ -13,8 +13,8 @@
 
 */
 
-void appl_b(void)
+void appl_c(void)
 {
-	// do nothing
+	int a = 1;
 }
 
