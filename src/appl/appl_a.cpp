@@ -18,6 +18,7 @@ using namespace std;
 
 // define enums 
 #define CONST_VALUE     5
+#define NEW_CONST_VALUE     55
 
 const int typed_some_value = 5;         // 
 const auto auto_typed_some_value = 5;   // 
