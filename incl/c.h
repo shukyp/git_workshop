@@ -3,5 +3,6 @@
 
 // c++ headers
 
+#define VALUE_10	777
 
 #endif // C_H
